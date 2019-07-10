@@ -1,6 +1,6 @@
 # lost-sprites
 
-All sprites from my abandonned prototypes.
+All sprites from my abandoned prototypes.
 
 Warning : all this stuff is not intented to be used in production, I created these assets only for prototyping purpose and it is far from complete.
 
